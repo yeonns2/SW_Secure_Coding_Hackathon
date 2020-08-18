@@ -1,4 +1,4 @@
-package com.victolee.singuplogin;
+package com.securessingssing;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
